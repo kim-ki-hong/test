@@ -1,2 +1,2 @@
-test is good
-my name is test
+master is good
+my name is master
